@@ -1,0 +1,15 @@
+C:\Users\MattieD\source\repos\student-database\student-database\bin\Debug\net8.0\student-database.exe
+C:\Users\MattieD\source\repos\student-database\student-database\bin\Debug\net8.0\student-database.deps.json
+C:\Users\MattieD\source\repos\student-database\student-database\bin\Debug\net8.0\student-database.runtimeconfig.json
+C:\Users\MattieD\source\repos\student-database\student-database\bin\Debug\net8.0\student-database.dll
+C:\Users\MattieD\source\repos\student-database\student-database\bin\Debug\net8.0\student-database.pdb
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.AssemblyInfoInputs.cache
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.AssemblyInfo.cs
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.csproj.CoreCompileInputs.cache
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.sourcelink.json
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.dll
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\refint\student-database.dll
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.pdb
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\student-database.genruntimeconfig.cache
+C:\Users\MattieD\source\repos\student-database\student-database\obj\Debug\net8.0\ref\student-database.dll
